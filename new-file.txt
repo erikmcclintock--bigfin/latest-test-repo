@@ -1,1 +1,1 @@
-i am editing the new-file.txt
+now i've edited it from my local machine to merge it and push it up to the remote repo
