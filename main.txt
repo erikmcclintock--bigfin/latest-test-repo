@@ -1,0 +1,3 @@
+here is a file
+
+change made while file in staging area
